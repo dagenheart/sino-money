@@ -1,6 +1,6 @@
 # Sino Money
 
-**Sino Money** is a full-stack **virtual banking simulator** built with PHP and MySQL. It demonstrates account registration, virtual card management, internal transfers, and transaction history. The project focuses on implementing a working financial web application-not redesigning an existing product.
+**Sino Money** is a full-stack **virtual banking simulator** built with PHP and MySQL. It demonstrates account registration, virtual card management, internal transfers, and transaction history. The project focuses on implementing a working financial web application—not redesigning an existing product.
 
 > **Educational demo only.** All balances and card numbers are fictional. Sino Money is not a bank, payment processor, or real-money service. Do not use it with real cardholder information.
 
