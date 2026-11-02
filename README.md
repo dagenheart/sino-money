@@ -95,7 +95,18 @@ sinomoney/
 
 ## Screenshots
 
-Screenshots should be captured from your local installation with **demo-only** accounts and no private information. Recommended views: dashboard, virtual card details, transfer form, and filtered transaction history. Add them under `screenshots/` and link them here when available.
+### Dashboard
+![Dashboard](dashboard.jpg)
+
+### Card Details
+![Card Details](card%20details.png)
+
+### Transfers
+![Transfers](transfer.png)
+
+### Transaction History
+![Transactions](transactions.png)
+
 
 ## Security and limitations
 
